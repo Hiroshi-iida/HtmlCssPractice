@@ -1,0 +1,154 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 游ゴシック体, 'Yu Gothic', YuGothic, 'ヒラギノ角ゴシック Pro';
+}
+h1{
+  text-align: center;
+  font-size:2vw;
+}
+h2{
+  text-align: center;
+  font-size:1.5vw;
+}
+header{
+  background-color: hsla(350, 60%, 30%, 0.4);
+  color: white;
+  text-align: center;
+  height:100vh;
+}
+.title{
+  vertical-align: middle;
+  margin-bottom:25vw;
+}
+.title h1{
+  padding-top:13vw;
+  padding-bottom:1vw;
+}
+header p{
+  font-size:1vw;
+  padding-top:3vw;
+  padding-bottom:5vw;
+  color:white;
+}
+.product1{
+  display:flex;
+  height:80vh;
+}
+.point1{
+  background-color: hsla(270, 60%, 30%, 0.4);
+  color:white;
+  width:33.33vw;
+}
+.product1 h2 ,.product1 p{
+  text-align: left;
+  font-size: 2.2vw;
+  margin-top:3vw;
+  margin-left:3vw;
+}
+.product1 p{
+  font-size:1.3vw;
+  margin-right:3vw;
+  margin-top:1vw;
+  color:white;
+}
+
+.point2{
+  background-color: hsla(180, 60%, 30%, 0.4);
+  color:white;
+  width:33.34vw;
+}
+.point3{
+  background-color: hsla(50, 60%, 30%, 0.4);
+  color:white;
+  width:33.33vw;
+}
+.point4{
+  background-color: rgb(247, 247, 247);
+  width:50vw;
+}
+.point4  h2,.point4 p{
+  text-align:center;
+  color:rgb(60, 60, 60);
+}
+.point4 h2{
+  font-size:1.6vw;
+  padding-bottom: 1vw;
+}
+.point4 p{
+  color:rgb(60, 60, 60);
+}
+
+.img1 img{
+  width:15vw;
+  height:15vw;
+  border-radius: 50%;
+  text-align:center;
+  margin-left:17vw;
+  margin-bottom:2vw;
+}
+.free{
+  width:9vw;
+  line-height: 3em;
+  font-size:0.7vw;
+  color:white;
+  background-color: hsl(20, 80%, 60%);
+  border-radius: 10%;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+  font-weight: bold;
+}
+.point4 p{
+  font-size: 1.3vw;
+  margin-top:0vw;
+  font-weight: bold;
+}
+.point4 strong{
+  font-size: 1.8vw;
+  }
+
+.annotation{
+  text-align:center;
+  font-size: 1vw;
+  margin-top: 2vw;
+}
+.point5{
+  width:50vw;
+}
+
+.point5 h2{
+  font-size:1.6vw;
+  text-align:center;
+  margin-top:10vw;
+}
+#img2{
+  width:15vw;
+  height:15vw;
+  margin-left:17vw;
+}
+.product2{
+  background-color:hsla(350, 60%, 30%, 0.3);
+  height:80vh;
+}
+.point6{
+  padding:5vw 10vw 5vw 50vw;
+}
+.point6 h2{
+  font-size:1.8vw;
+  padding-bottom:3vw;
+}
+.point6 li{
+  font-size:1.6vw;
+  list-style: none;
+  text-align: center;
+ 
+}
+
+.point6 p{
+  text-align:center;
+  font-size:1.2vw;
+  padding-bottom:3vw;
+  padding-top:1vw;
+  margin:0;
+}
